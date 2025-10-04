@@ -1,6 +1,7 @@
 # Cloudflare AI Chat Application
 
 AI-powered chat application built on Cloudflare infrastructure.
+Try it here! https://ai-chat-app.tyblade21.workers.dev/
 
 ## Features
 - AI-powered responses using Llama 3.3
